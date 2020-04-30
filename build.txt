@@ -1,0 +1,4 @@
+displayName = TheThrowingMod
+author = Lukethekillrr
+version = 0.14
+homepage = https://forums.terraria.org/index.php?threads/thethrowingmod.88081/
